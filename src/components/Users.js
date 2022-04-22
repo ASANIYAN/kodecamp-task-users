@@ -20,7 +20,6 @@ const Users = () => {
             setData(data);
             setIsPending(false);
             setError(null);
-            console.log(data);
         }).catch(err => {
           if (err.name === 'AbortError') {
               console.log('fetch aborted');
