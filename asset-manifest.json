@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kodecamp-task-users/static/css/main.197a9d12.css",
+    "main.js": "/kodecamp-task-users/static/js/main.057d096a.js",
+    "index.html": "/kodecamp-task-users/index.html",
+    "main.197a9d12.css.map": "/kodecamp-task-users/static/css/main.197a9d12.css.map",
+    "main.057d096a.js.map": "/kodecamp-task-users/static/js/main.057d096a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.197a9d12.css",
+    "static/js/main.057d096a.js"
+  ]
+}
